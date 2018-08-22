@@ -1,0 +1,2 @@
+SELECT * FROM Employees
+WHERE HireDate BETWEEN '1/1/1994' AND '8/21/2018';

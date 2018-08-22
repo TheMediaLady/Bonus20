@@ -1,0 +1,2 @@
+SELECT DISTINCT City FROM Customers
+WHERE City IS NOT NULL;

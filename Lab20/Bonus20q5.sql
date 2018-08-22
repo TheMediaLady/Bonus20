@@ -1,0 +1,1 @@
+SELECT AVG (UnitPrice) AS UnitPriceAverage FROM Products

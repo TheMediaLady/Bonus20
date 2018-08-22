@@ -1,0 +1,2 @@
+SELECT * FROM Employees
+SELECT	DATEDIFF (YEAR, '1992-05-01', '2018-08-21') AS #OfYears;
